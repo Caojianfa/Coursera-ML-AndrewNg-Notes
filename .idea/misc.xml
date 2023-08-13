@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="sdkUUID" value="c86e3aa2-9b0b-491e-a11e-2304d5ec2056" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Coursera-ML-AndrewNg-Notes)" project-jdk-type="Python SDK" />
 </project>
